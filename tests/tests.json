@@ -1,0 +1,21 @@
+{
+  'createObj': {
+    'valid': [
+      """
+      ...
+      """
+    ],
+    'invalid': {
+      'invalidObjType': [
+        """
+        ...
+        """
+      ],
+      'invalidColor': [
+        """
+        ...
+        """
+      ]
+    }
+  }
+}
